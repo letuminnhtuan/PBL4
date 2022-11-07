@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T08:53:54.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="0k5cX8OI1T-3_G8NAblT" type="github"><diagram id="P2NkMgYKe7AjXcb2en9P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-07T16:42:41.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="D7YB7uM4uzENKZbVzxA1" version="20.5.3" type="github">
+  <diagram id="P2NkMgYKe7AjXcb2en9P" name="Page-1">
+    <mxGraphModel dx="1422" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-5" value="OK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontStyle=1" edge="1" parent="1" source="IowwBC9YmkVEPH5Ema0w-3" target="IowwBC9YmkVEPH5Ema0w-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-3" value="Log in" style="shape=umlFrame;whiteSpace=wrap;html=1;width=91;height=30;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="423" y="228" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-4" value="Main" style="shape=umlFrame;whiteSpace=wrap;html=1;width=64;height=15;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="845" y="61" width="785" height="532" as="geometry" />
+        </mxCell>
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-6" value="JTree dùng để lưu danh sách thư mục dạng cây" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="857" y="116" width="188" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-7" value="JTable dùng để hiển thị các file hiện có trong thư mục được chọn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="116" width="561" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="IowwBC9YmkVEPH5Ema0w-8" value="Menu có các tùy chỉnh: tạo folder trong JTree, upload file lên" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="857" y="85" width="764" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
